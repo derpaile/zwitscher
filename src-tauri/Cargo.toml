@@ -1,0 +1,22 @@
+[package]
+name = "zwitscher"
+version = "2.0.0"
+description = "Vogelstimmen hören und bestimmen lernen"
+authors = ["Zwitscher"]
+edition = "2021"
+
+[lib]
+name = "zwitscher_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = [] }
+
+[profile.release]
+strip = true
+lto = true
+codegen-units = 1
+panic = "abort"

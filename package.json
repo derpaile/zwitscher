@@ -1,0 +1,39 @@
+{
+  "name": "zwitscher-v2",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "bundle": "vite build --config vite.static.config.ts",
+    "dev": "npm run bundle && vite",
+    "build": "tsc --noEmit && npm run bundle && vite build && npm run validate:media && npm run check:size",
+    "tauri": "tauri",
+    "mac:dev": "tauri dev",
+    "mac:build": "node scripts/build-mac.mjs",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "validate:media": "node scripts/validate-media.mjs",
+    "check:size": "node scripts/check-size.mjs",
+    "audit:licenses": "node scripts/audit-media-licenses.mjs --delete",
+    "audit:licenses:online": "node scripts/audit-media-licenses.mjs --online --delete",
+    "discover:audio": "node scripts/discover-audio.mjs",
+    "filter:audio": "node scripts/filter-audio.mjs",
+    "fetch:media": "node scripts/fetch-media.mjs"
+  },
+  "dependencies": {
+    "fflate": "latest",
+    "idb": "latest"
+  },
+  "devDependencies": {
+    "@playwright/test": "latest",
+    "@tauri-apps/cli": "^2.11.4",
+    "@vitest/coverage-v8": "latest",
+    "fake-indexeddb": "latest",
+    "typescript": "latest",
+    "vite": "latest",
+    "vite-plugin-pwa": "latest",
+    "vitest": "latest"
+  }
+}

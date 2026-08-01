@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+    <meta name="theme-color" content="#173f36">
+    <meta name="description" content="Zwitscher – geführtes Offline-Lernen für 60 heimische Vogelstimmen.">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <title>Zwitscher · Vogelstimmen hören lernen</title>
+    <link rel="icon" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/icon.svg">
+    <link rel="manifest" href="/manifest.webmanifest">
+    <link rel="stylesheet" href="/app.css">
+  </head>
+  <body>
+    <div class="atmosphere" aria-hidden="true"><span class="glow"></span><i></i><i></i><i></i><i></i><i></i></div>
+    <main class="app-shell">
+      <header class="topbar">
+        <button class="brand" id="home-button" aria-label="Zur Startseite"><span class="brand-mark"><svg viewBox="0 0 36 36" aria-hidden="true"><path d="M9.3 21.2c1.8 5.5 8.6 8.1 14 4.3 3.9-2.5 4.9-7.5 2.5-11.2-2.2-3.5-6.7-5-10.6-3.5-2.8 1.1-4.8 3.4-5.6 6.1L4 20.2l5.3 1Z"/><circle cx="22.5" cy="14.5" r="1.35"/><path class="beak" d="m27.1 15.5 5.4 2-5.5 1.7Z"/></svg></span><span>zwitscher</span><b>2</b></button>
+        <nav class="top-actions" aria-label="Hauptnavigation">
+          <button id="stats-button"><span>↗</span><em>Fortschritt</em></button>
+          <button id="collection-button"><span>◉</span><em>Vogelbuch</em></button>
+          <button id="sound-button" aria-label="Wiedergabe pausieren"><span>◖</span></button>
+          <button id="settings-button" aria-label="Einstellungen"><span>⚙</span></button>
+        </nav>
+      </header>
+      <section id="view" class="view" aria-live="polite"><div class="boot"><span></span><p>Vogelstimmen werden vorbereitet …</p></div></section>
+    </main>
+    <div class="toast" id="toast" role="status"></div>
+    <script type="module" src="/app.js"></script>
+  </body>
+</html>
