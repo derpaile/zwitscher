@@ -19,6 +19,7 @@
     "audit:licenses": "node scripts/audit-media-licenses.mjs --delete",
     "audit:licenses:online": "node scripts/audit-media-licenses.mjs --online --delete",
     "discover:audio": "node scripts/discover-audio.mjs",
+    "add:audio:wikimedia": "node scripts/add-wikimedia-audio.mjs",
     "filter:audio": "node scripts/filter-audio.mjs",
     "fetch:media": "node scripts/fetch-media.mjs"
   },

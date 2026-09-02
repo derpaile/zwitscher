@@ -17,7 +17,7 @@ if (ids.length !== 60 || new Set(ids).size !== 60) failures.push(`Arten: ${ids.l
 for (const id of ids) {
   const recordings = manifest.recordings.filter((item) => item.speciesId === id);
   const photos = manifest.photos.filter((item) => item.speciesId === id);
-  if (recordings.length < 3) failures.push(`${id}: nur ${recordings.length} Aufnahmen`);
+  if (recordings.length < 4) failures.push(`${id}: nur ${recordings.length} Aufnahmen`);
   if (!callsOnly.has(id) && id !== 'buntspecht' && (recordings.filter((item) => item.voiceType === 'song').length < 2 || recordings.filter((item) => item.voiceType === 'call').length < 1)) failures.push(`${id}: benötigt zwei Gesänge und einen Ruf`);
   if (callsOnly.has(id) && recordings.some((item) => item.voiceType !== 'call')) failures.push(`${id}: Krähen-/Rufart enthält falschen Lauttyp`);
   if (id === 'buntspecht' && recordings.filter((item) => item.voiceType === 'drumming').length < 2) failures.push(`${id}: benötigt zwei Trommelvarianten`);

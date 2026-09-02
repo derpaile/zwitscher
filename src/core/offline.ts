@@ -1,6 +1,7 @@
 import { loadMediaManifest } from './media';
 import { loadOfflineState, saveOfflineState } from './storage';
 import type { OfflineState } from '../types';
+import { assetPath } from './paths';
 
 export const MEDIA_CACHE = 'zwitscher-media-v2';
 
@@ -20,7 +21,7 @@ export class OfflineInstaller {
       state = { version:manifest.version,cached:[],failed:[],total:urls.length,totalBytes:manifest.totalBytes,downloadedBytes:0,ready:false,paused:false };
     }
     const cache = await caches.open(MEDIA_CACHE);
-    await cache.put('/media/manifest.json',new Response(JSON.stringify(manifest),{headers:{'content-type':'application/json'}}));
+    await cache.put(assetPath('media/manifest.json'),new Response(JSON.stringify(manifest),{headers:{'content-type':'application/json'}}));
     const verified = await Promise.all(state.cached.map(async (url) => [url,Boolean(await cache.match(url))] as const));
     const done = new Set(verified.filter(([,exists]) => exists).map(([url]) => url));
     const failed = new Set<string>();

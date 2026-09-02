@@ -1,7 +1,7 @@
 {
-  "version": "2.2.0",
-  "generatedAt": "2026-08-01T02:14:56.965Z",
-  "totalBytes": 49174413,
+  "version": "2.3.0",
+  "generatedAt": "2026-08-04T05:47:46.499Z",
+  "totalBytes": 65158801,
   "recordings": [
     {
       "id": "amsel-01",
@@ -43,6 +43,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Turdus_merula_-_Common_Blackbird_XC310893.mp3",
       "bytes": 211198,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "amsel-04",
+      "speciesId": "amsel",
+      "voiceType": "alarm",
+      "src": "/media/audio/amsel/amsel-04.mp3",
+      "durationSeconds": 9.87,
+      "title": "Turdus merula - Common Blackbird XC573899.mp3",
+      "creator": "Lorenzo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Turdus_merula_-_Common_Blackbird_XC573899.mp3",
+      "bytes": 119515,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -88,6 +102,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "rotkehlchen-04",
+      "speciesId": "rotkehlchen",
+      "voiceType": "song",
+      "src": "/media/audio/rotkehlchen/rotkehlchen-04.mp3",
+      "durationSeconds": 6.14,
+      "title": "Erithacus rubecula - European Robin XC441752.mp3",
+      "creator": "Jan Cibulka",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erithacus_rubecula_-_European_Robin_XC441752.mp3",
+      "bytes": 74487,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "kohlmeise-01",
       "speciesId": "kohlmeise",
       "voiceType": "song",
@@ -127,6 +155,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parus_major_-_Great_Tit_XC165665.mp3",
       "bytes": 24997,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "kohlmeise-04",
+      "speciesId": "kohlmeise",
+      "voiceType": "alarm",
+      "src": "/media/audio/kohlmeise/kohlmeise-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Parus major - Great Tit XC436371.mp3",
+      "creator": "Joost van Bruggen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parus_major_-_Great_Tit_XC436371.mp3",
+      "bytes": 337045,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -172,6 +214,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "blaumeise-04",
+      "speciesId": "blaumeise",
+      "voiceType": "call",
+      "src": "/media/audio/blaumeise/blaumeise-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Cyanistes caeruleus - Eurasian Blue Tit XC125793.ogg",
+      "creator": "Dan Stowell",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cyanistes_caeruleus_-_Eurasian_Blue_Tit_XC125793.ogg",
+      "bytes": 336710,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "zaunkoenig-01",
       "speciesId": "zaunkoenig",
       "voiceType": "song",
@@ -211,6 +267,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Troglodytes_troglodytes_-_Eurasian_Wren_XC483802.mp3",
       "bytes": 337311,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "zaunkoenig-04",
+      "speciesId": "zaunkoenig",
+      "voiceType": "call",
+      "src": "/media/audio/zaunkoenig/zaunkoenig-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Troglodytes troglodytes - Eurasian Wren XC474428.mp3",
+      "creator": "Marie-Lan Taÿ Pamart",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Troglodytes_troglodytes_-_Eurasian_Wren_XC474428.mp3",
+      "bytes": 337325,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -256,6 +326,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "nachtigall-04",
+      "speciesId": "nachtigall",
+      "voiceType": "call",
+      "src": "/media/audio/nachtigall/nachtigall-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Luscinia megarhynchos - Common Nightingale XC473316.mp3",
+      "creator": "Marie-Lan Taÿ Pamart",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luscinia_megarhynchos_-_Common_Nightingale_XC473316.mp3",
+      "bytes": 337338,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "buchfink-01",
       "speciesId": "buchfink",
       "voiceType": "song",
@@ -295,6 +379,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fringilla_coelebs_-_Common_Chaffinch_XC539300.mp3",
       "bytes": 337068,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "buchfink-04",
+      "speciesId": "buchfink",
+      "voiceType": "call",
+      "src": "/media/audio/buchfink/buchfink-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Fringilla coelebs - Common Chaffinch XC568882.mp3",
+      "creator": "godweetwat@gmail.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fringilla_coelebs_-_Common_Chaffinch_XC568882.mp3",
+      "bytes": 337468,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -340,6 +438,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "gruenfink-04",
+      "speciesId": "gruenfink",
+      "voiceType": "song",
+      "src": "/media/audio/gruenfink/gruenfink-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "XC181370 - Groenling - Chloris chloris chloris.ogg",
+      "creator": "Sander Pieterse",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:XC181370_-_Groenling_-_Chloris_chloris_chloris.ogg",
+      "bytes": 336710,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "stieglitz-01",
       "speciesId": "stieglitz",
       "voiceType": "song",
@@ -379,6 +491,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carduelis_carduelis_-_European_Goldfinch_XC481945.mp3",
       "bytes": 337178,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "stieglitz-04",
+      "speciesId": "stieglitz",
+      "voiceType": "song",
+      "src": "/media/audio/stieglitz/stieglitz-04.mp3",
+      "durationSeconds": 18.31,
+      "title": "Carduelis carduelis - European Goldfinch XC473287.mp3",
+      "creator": "Marie-Lan Taÿ Pamart",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carduelis_carduelis_-_European_Goldfinch_XC473287.mp3",
+      "bytes": 220664,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -424,6 +550,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "gimpel-04",
+      "speciesId": "gimpel",
+      "voiceType": "call",
+      "src": "/media/audio/gimpel/gimpel-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Bullfinch (Pyrrhula pyrrhula) (W1CDR0001509 BD14).ogg",
+      "creator": "This file has been provided by the British Library from its digital collections. Links to the British Library's website may be broken as the library recovers from a October 2023 cyber attack, and will be updated once material becomes accessible online. For more information on the attack see: https://www.bl.uk/about/cyber-attack It is also made available on a British Library website .",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bullfinch_(Pyrrhula_pyrrhula)_(W1CDR0001509_BD14).ogg",
+      "bytes": 336710,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "haussperling-01",
       "speciesId": "haussperling",
       "voiceType": "song",
@@ -463,6 +603,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Passer_domesticus_-_House_Sparrow_XC86749.mp3",
       "bytes": 136411,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "haussperling-04",
+      "speciesId": "haussperling",
+      "voiceType": "alarm",
+      "src": "/media/audio/haussperling/haussperling-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Passer domesticus - House Sparrow XC536388.mp3",
+      "creator": "Antonio",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Passer_domesticus_-_House_Sparrow_XC536388.mp3",
+      "bytes": 337403,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -508,6 +662,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "feldsperling-04",
+      "speciesId": "feldsperling",
+      "voiceType": "call",
+      "src": "/media/audio/feldsperling/feldsperling-04.mp3",
+      "durationSeconds": 11.05,
+      "title": "Passer montanus.ogg",
+      "creator": "Vladimir Yu. Arkhipov, Arkhivov",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Passer_montanus.ogg",
+      "bytes": 132955,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "star-01",
       "speciesId": "star",
       "voiceType": "song",
@@ -547,6 +715,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sturnus_vulgaris_-_Common_Starling_XC503745.mp3",
       "bytes": 121395,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "star-04",
+      "speciesId": "star",
+      "voiceType": "song",
+      "src": "/media/audio/star/star-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Sturnus vulgaris - Common Starling XC527723.mp3",
+      "creator": "Benoît Van Hecke",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sturnus_vulgaris_-_Common_Starling_XC527723.mp3",
+      "bytes": 337061,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -592,6 +774,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "singdrossel-04",
+      "speciesId": "singdrossel",
+      "voiceType": "flight",
+      "src": "/media/audio/singdrossel/singdrossel-04.mp3",
+      "durationSeconds": 22.31,
+      "title": "Turdus philomelos - Song Thrush XC434600.mp3",
+      "creator": "Joost van Bruggen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Turdus_philomelos_-_Song_Thrush_XC434600.mp3",
+      "bytes": 268390,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "misteldrossel-01",
       "speciesId": "misteldrossel",
       "voiceType": "song",
@@ -631,6 +827,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Turdus_viscivorus_-_Mistle_Thrush_XC430010.mp3",
       "bytes": 212766,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "misteldrossel-04",
+      "speciesId": "misteldrossel",
+      "voiceType": "song",
+      "src": "/media/audio/misteldrossel/misteldrossel-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Turdus viscivorus - Mistle Thrush XC534146.mp3",
+      "creator": "Benoît Van Hecke",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Turdus_viscivorus_-_Mistle_Thrush_XC534146.mp3",
+      "bytes": 337018,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -676,6 +886,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "wacholderdrossel-04",
+      "speciesId": "wacholderdrossel",
+      "voiceType": "call",
+      "src": "/media/audio/wacholderdrossel/wacholderdrossel-04.mp3",
+      "durationSeconds": 24.5,
+      "title": "TurdusPilarisCall.ogg",
+      "creator": "SanoAK: Alexander Kürthy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TurdusPilarisCall.ogg",
+      "bytes": 294391,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "moenchsgrasmuecke-01",
       "speciesId": "moenchsgrasmuecke",
       "voiceType": "song",
@@ -715,6 +939,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sylvia_atricapilla_-_Eurasian_Blackcap_XC457403.mp3",
       "bytes": 257533,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "moenchsgrasmuecke-04",
+      "speciesId": "moenchsgrasmuecke",
+      "voiceType": "flight",
+      "src": "/media/audio/moenchsgrasmuecke/moenchsgrasmuecke-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Sylvia atricapilla - Eurasian Blackcap XC465727.mp3",
+      "creator": "Marie-Lan Taÿ Pamart",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sylvia_atricapilla_-_Eurasian_Blackcap_XC465727.mp3",
+      "bytes": 337231,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -760,6 +998,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "gartengrasmuecke-04",
+      "speciesId": "gartengrasmuecke",
+      "voiceType": "song",
+      "src": "/media/audio/gartengrasmuecke/gartengrasmuecke-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Garden Warbler (Sylvia borin) (W1CDR0001463 BD12).ogg",
+      "creator": "This file has been provided by the British Library from its digital collections. Links to the British Library's website may be broken as the library recovers from a October 2023 cyber attack, and will be updated once material becomes accessible online. For more information on the attack see: https://www.bl.uk/about/cyber-attack It is also made available on a British Library website .",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garden_Warbler_(Sylvia_borin)_(W1CDR0001463_BD12).ogg",
+      "bytes": 336710,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "dorngrasmuecke-01",
       "speciesId": "dorngrasmuecke",
       "voiceType": "song",
@@ -799,6 +1051,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sylvia_communis_-_Common_Whitethroat_XC503635.mp3",
       "bytes": 149297,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "dorngrasmuecke-04",
+      "speciesId": "dorngrasmuecke",
+      "voiceType": "song",
+      "src": "/media/audio/dorngrasmuecke/dorngrasmuecke-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Sylvia communis - Common Whitethroat XC478080.mp3",
+      "creator": "Marie-Lan Taÿ Pamart",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sylvia_communis_-_Common_Whitethroat_XC478080.mp3",
+      "bytes": 337285,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -844,6 +1110,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "zilpzalp-04",
+      "speciesId": "zilpzalp",
+      "voiceType": "call",
+      "src": "/media/audio/zilpzalp/zilpzalp-04.mp3",
+      "durationSeconds": 12.85,
+      "title": "Phylloscopus collybita - Common Chiffchaff XC170664.mp3",
+      "creator": "Alejandro Erickson",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phylloscopus_collybita_-_Common_Chiffchaff_XC170664.mp3",
+      "bytes": 155056,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "fitis-01",
       "speciesId": "fitis",
       "voiceType": "song",
@@ -883,6 +1163,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phylloscopus_trochilus_-_Willow_Warbler_XC489914.mp3",
       "bytes": 206134,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "fitis-04",
+      "speciesId": "fitis",
+      "voiceType": "call",
+      "src": "/media/audio/fitis/fitis-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Phylloscopus trochilus - Willow Warbler XC494148.mp3",
+      "creator": "Marie-Lan Taÿ Pamart",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phylloscopus_trochilus_-_Willow_Warbler_XC494148.mp3",
+      "bytes": 337395,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -928,6 +1222,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "sommergoldhaehnchen-04",
+      "speciesId": "sommergoldhaehnchen",
+      "voiceType": "song",
+      "src": "/media/audio/sommergoldhaehnchen/sommergoldhaehnchen-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Regulus ignicapilla - Common Firecrest XC432208.mp3",
+      "creator": "Joost van Bruggen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Regulus_ignicapilla_-_Common_Firecrest_XC432208.mp3",
+      "bytes": 337080,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "wintergoldhaehnchen-01",
       "speciesId": "wintergoldhaehnchen",
       "voiceType": "song",
@@ -967,6 +1275,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Regulus_regulus_-_Goldcrest_XC501794.mp3",
       "bytes": 210755,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "wintergoldhaehnchen-04",
+      "speciesId": "wintergoldhaehnchen",
+      "voiceType": "call",
+      "src": "/media/audio/wintergoldhaehnchen/wintergoldhaehnchen-04.mp3",
+      "durationSeconds": 26.72,
+      "title": "Regulus regulus - Goldcrest XC475114.mp3",
+      "creator": "Marie-Lan Taÿ Pamart",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Regulus_regulus_-_Goldcrest_XC475114.mp3",
+      "bytes": 321740,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -1012,6 +1334,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "goldammer-04",
+      "speciesId": "goldammer",
+      "voiceType": "song",
+      "src": "/media/audio/goldammer/goldammer-04.mp3",
+      "durationSeconds": 2.48,
+      "title": "Emberiza citrinella - Yellowhammer XC571973.mp3",
+      "creator": "Nikita Panfilov",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emberiza_citrinella_-_Yellowhammer_XC571973.mp3",
+      "bytes": 30519,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "feldlerche-01",
       "speciesId": "feldlerche",
       "voiceType": "song",
@@ -1051,6 +1387,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alauda_arvensis_-_Eurasian_Skylark_XC528350.mp3",
       "bytes": 77007,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "feldlerche-04",
+      "speciesId": "feldlerche",
+      "voiceType": "song",
+      "src": "/media/audio/feldlerche/feldlerche-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Alauda arvensis - Eurasian Skylark XC482777.mp3",
+      "creator": "Pascal Christe",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alauda_arvensis_-_Eurasian_Skylark_XC482777.mp3",
+      "bytes": 337065,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -1096,6 +1446,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "hausrotschwanz-04",
+      "speciesId": "hausrotschwanz",
+      "voiceType": "song",
+      "src": "/media/audio/hausrotschwanz/hausrotschwanz-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Phoenicurus ochruros - Black Redstart XC473243.mp3",
+      "creator": "Marie-Lan Taÿ Pamart",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phoenicurus_ochruros_-_Black_Redstart_XC473243.mp3",
+      "bytes": 337510,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "gartenrotschwanz-01",
       "speciesId": "gartenrotschwanz",
       "voiceType": "song",
@@ -1135,6 +1499,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gartenrotschwanz_(Phoenicurus_phoenicurus).wav",
       "bytes": 121092,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "gartenrotschwanz-04",
+      "speciesId": "gartenrotschwanz",
+      "voiceType": "song",
+      "src": "/media/audio/gartenrotschwanz/gartenrotschwanz-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Phoenicurus phoenicurus - Common Redstart XC479660.mp3",
+      "creator": "Pascal Christe",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phoenicurus_phoenicurus_-_Common_Redstart_XC479660.mp3",
+      "bytes": 337087,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -1180,6 +1558,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "kleiber-04",
+      "speciesId": "kleiber",
+      "voiceType": "song",
+      "src": "/media/audio/kleiber/kleiber-04.mp3",
+      "durationSeconds": 24.76,
+      "title": "Sitta europaea - Eurasian Nuthatch XC433160.mp3",
+      "creator": "Joost van Bruggen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sitta_europaea_-_Eurasian_Nuthatch_XC433160.mp3",
+      "bytes": 297935,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "waldbaumlaeufer-01",
       "speciesId": "waldbaumlaeufer",
       "voiceType": "song",
@@ -1219,6 +1611,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Certhia_familiaris_-_Eurasian_Treecreeper_XC457378.mp3",
       "bytes": 337143,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "waldbaumlaeufer-04",
+      "speciesId": "waldbaumlaeufer",
+      "voiceType": "song",
+      "src": "/media/audio/waldbaumlaeufer/waldbaumlaeufer-04.mp3",
+      "durationSeconds": 27.98,
+      "title": "Certhia familiaris - Eurasian Treecreeper XC528366.mp3",
+      "creator": "Benjamin Mayer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Certhia_familiaris_-_Eurasian_Treecreeper_XC528366.mp3",
+      "bytes": 336466,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -1264,6 +1670,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "sumpfmeise-04",
+      "speciesId": "sumpfmeise",
+      "voiceType": "call",
+      "src": "/media/audio/sumpfmeise/sumpfmeise-04.mp3",
+      "durationSeconds": 2.8,
+      "title": "PoecilePalustrisCall.ogg",
+      "creator": "SanoAK: Alexander Kürthy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PoecilePalustrisCall.ogg",
+      "bytes": 33898,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "weidenmeise-01",
       "speciesId": "weidenmeise",
       "voiceType": "song",
@@ -1303,6 +1723,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Poecile_montanus_-_Willow_Tit_XC462898.mp3",
       "bytes": 77338,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "weidenmeise-04",
+      "speciesId": "weidenmeise",
+      "voiceType": "song",
+      "src": "/media/audio/weidenmeise/weidenmeise-04.mp3",
+      "durationSeconds": 14.16,
+      "title": "Poecile montanus.ogg",
+      "creator": "Vladimir Yu. Arkhipov, Arkhivov",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Poecile_montanus.ogg",
+      "bytes": 170257,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -1348,6 +1782,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "haubenmeise-04",
+      "speciesId": "haubenmeise",
+      "voiceType": "call",
+      "src": "/media/audio/haubenmeise/haubenmeise-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Crested Tit (Lophophanes cristatus) (W1CDR0001462 BD1).ogg",
+      "creator": "This file has been provided by the British Library from its digital collections. Links to the British Library's website may be broken as the library recovers from a October 2023 cyber attack, and will be updated once material becomes accessible online. For more information on the attack see: https://www.bl.uk/about/cyber-attack It is also made available on a British Library website .",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crested_Tit_(Lophophanes_cristatus)_(W1CDR0001462_BD1).ogg",
+      "bytes": 336710,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "schwanzmeise-01",
       "speciesId": "schwanzmeise",
       "voiceType": "call",
@@ -1387,6 +1835,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Vealhurl-long-tailed_tit.wav",
       "bytes": 19479,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "schwanzmeise-04",
+      "speciesId": "schwanzmeise",
+      "voiceType": "call",
+      "src": "/media/audio/schwanzmeise/schwanzmeise-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Aegithalos caudatus - Long-tailed Tit XC561015.mp3",
+      "creator": "Olivier Grimm",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aegithalos_caudatus_-_Long-tailed_Tit_XC561015.mp3",
+      "bytes": 337126,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -1432,6 +1894,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "pirol-04",
+      "speciesId": "pirol",
+      "voiceType": "call",
+      "src": "/media/audio/pirol/pirol-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Oriolus oriolus - Eurasian Golden Oriole XC342192.mp3",
+      "creator": "Alexander Kürthy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oriolus_oriolus_-_Eurasian_Golden_Oriole_XC342192.mp3",
+      "bytes": 337505,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "kuckuck-01",
       "speciesId": "kuckuck",
       "voiceType": "song",
@@ -1471,6 +1947,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cuculus_canorus_-_Common_Cuckoo_XC108332.mp3",
       "bytes": 217344,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "kuckuck-04",
+      "speciesId": "kuckuck",
+      "voiceType": "song",
+      "src": "/media/audio/kuckuck/kuckuck-04.mp3",
+      "durationSeconds": 17.58,
+      "title": "Cuculus canorus - Common Cuckoo XC541195.mp3",
+      "creator": "Benoît Van Hecke",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cuculus_canorus_-_Common_Cuckoo_XC541195.mp3",
+      "bytes": 211654,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -1516,6 +2006,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "ringeltaube-04",
+      "speciesId": "ringeltaube",
+      "voiceType": "song",
+      "src": "/media/audio/ringeltaube/ringeltaube-04.mp3",
+      "durationSeconds": 11.7,
+      "title": "Columba palumbus birdsong.ogg",
+      "creator": "Oona Räisänen ( Mysid )",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Columba_palumbus_birdsong.ogg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Columba_palumbus_birdsong.ogg",
+      "bytes": 140791,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "tannenmeise-01",
       "speciesId": "tannenmeise",
       "voiceType": "song",
@@ -1555,6 +2059,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Periparus_ater_-_Coal_Tit_XC510932.mp3",
       "bytes": 132007,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "tannenmeise-04",
+      "speciesId": "tannenmeise",
+      "voiceType": "song",
+      "src": "/media/audio/tannenmeise/tannenmeise-04.mp3",
+      "durationSeconds": 25.5,
+      "title": "Periparus ater - Coal Tit XC108345.mp3",
+      "creator": "Alexander Kurthy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Periparus_ater_-_Coal_Tit_XC108345.mp3",
+      "bytes": 306599,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -1600,6 +2118,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "gartenbaumlaeufer-04",
+      "speciesId": "gartenbaumlaeufer",
+      "voiceType": "song",
+      "src": "/media/audio/gartenbaumlaeufer/gartenbaumlaeufer-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Certhia brachydactyla - Short-toed Treecreeper XC475244.mp3",
+      "creator": "Marie-Lan Taÿ Pamart",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Certhia_brachydactyla_-_Short-toed_Treecreeper_XC475244.mp3",
+      "bytes": 337260,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "heckenbraunelle-01",
       "speciesId": "heckenbraunelle",
       "voiceType": "song",
@@ -1639,6 +2171,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prunella_modularis_-_Dunnock_XC546169.mp3",
       "bytes": 277817,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "heckenbraunelle-04",
+      "speciesId": "heckenbraunelle",
+      "voiceType": "call",
+      "src": "/media/audio/heckenbraunelle/heckenbraunelle-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Prunella modularis - Dunnock XC443806.mp3",
+      "creator": "Raoul Kima",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prunella_modularis_-_Dunnock_XC443806.mp3",
+      "bytes": 337974,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -1684,6 +2230,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "grauschnaepper-04",
+      "speciesId": "grauschnaepper",
+      "voiceType": "call",
+      "src": "/media/audio/grauschnaepper/grauschnaepper-04.mp3",
+      "durationSeconds": 10.63,
+      "title": "MuscicapaStriataCallSlovakiaOlympusDM670.ogg",
+      "creator": "SanoAK: Alexander Kürthy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:MuscicapaStriataCallSlovakiaOlympusDM670.ogg",
+      "bytes": 127939,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "trauerschnaepper-01",
       "speciesId": "trauerschnaepper",
       "voiceType": "song",
@@ -1723,6 +2283,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ficedula_hypoleuca_-_European_Pied_Flycatcher_XC493770.mp3",
       "bytes": 109438,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "trauerschnaepper-04",
+      "speciesId": "trauerschnaepper",
+      "voiceType": "song",
+      "src": "/media/audio/trauerschnaepper/trauerschnaepper-04.mp3",
+      "durationSeconds": 12.09,
+      "title": "Ficedula hypoleuca.ogg",
+      "creator": "Vladimir Yu. Arkhipov, Arkhivov",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ficedula_hypoleuca.ogg",
+      "bytes": 145493,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -1768,6 +2342,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "gelbspoetter-04",
+      "speciesId": "gelbspoetter",
+      "voiceType": "song",
+      "src": "/media/audio/gelbspoetter/gelbspoetter-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Härmsångare - Hippolais icterina.ogg",
+      "creator": "Jonn Leffmann",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:H%C3%A4rms%C3%A5ngare_-_Hippolais_icterina.ogg",
+      "bytes": 336710,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "sprosser-01",
       "speciesId": "sprosser",
       "voiceType": "song",
@@ -1807,6 +2395,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luscinia_luscinia_-_Thrush_Nightingale_XC537550.mp3",
       "bytes": 279666,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "sprosser-04",
+      "speciesId": "sprosser",
+      "voiceType": "song",
+      "src": "/media/audio/sprosser/sprosser-04.mp3",
+      "durationSeconds": 21.24,
+      "title": "Luscinia luscinia.ogg",
+      "creator": "Oona Räisänen ( Mysid )",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Luscinia_luscinia.ogg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luscinia_luscinia.ogg",
+      "bytes": 255208,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -1852,6 +2454,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "teichrohrsaenger-04",
+      "speciesId": "teichrohrsaenger",
+      "voiceType": "song",
+      "src": "/media/audio/teichrohrsaenger/teichrohrsaenger-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Acrocephalus scirpaceus - Eurasian Reed Warbler XC424196.mp3",
+      "creator": "Borja",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Acrocephalus_scirpaceus_-_Eurasian_Reed_Warbler_XC424196.mp3",
+      "bytes": 337171,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "sumpfrohrsaenger-01",
       "speciesId": "sumpfrohrsaenger",
       "voiceType": "song",
@@ -1891,6 +2507,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Acrocephalus_palustris_-_Marsh_Warbler_XC510488.mp3",
       "bytes": 337062,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "sumpfrohrsaenger-04",
+      "speciesId": "sumpfrohrsaenger",
+      "voiceType": "song",
+      "src": "/media/audio/sumpfrohrsaenger/sumpfrohrsaenger-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Marsh Warbler (Acrocephalus palustris) (W ACROCEPHALUS PALUSTRIS R10 C2).ogg",
+      "creator": "This file has been provided by the British Library from its digital collections. Links to the British Library's website may be broken as the library recovers from a October 2023 cyber attack, and will be updated once material becomes accessible online. For more information on the attack see: https://www.bl.uk/about/cyber-attack It is also made available on a British Library website .",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marsh_Warbler_(Acrocephalus_palustris)_(W_ACROCEPHALUS_PALUSTRIS_R10_C2).ogg",
+      "bytes": 336710,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -1936,6 +2566,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "schilfrohrsaenger-04",
+      "speciesId": "schilfrohrsaenger",
+      "voiceType": "song",
+      "src": "/media/audio/schilfrohrsaenger/schilfrohrsaenger-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Sedge Warbler (Acrocephalus schoenobaenus) (W1CDR0001431 BD22).ogg",
+      "creator": "This file has been provided by the British Library from its digital collections. Links to the British Library's website may be broken as the library recovers from a October 2023 cyber attack, and will be updated once material becomes accessible online. For more information on the attack see: https://www.bl.uk/about/cyber-attack It is also made available on a British Library website .",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sedge_Warbler_(Acrocephalus_schoenobaenus)_(W1CDR0001431_BD22).ogg",
+      "bytes": 336710,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "rohrammer-01",
       "speciesId": "rohrammer",
       "voiceType": "song",
@@ -1975,6 +2619,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emberiza_schoeniclus_-_Common_Reed_Bunting_XC552170.mp3",
       "bytes": 337146,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "rohrammer-04",
+      "speciesId": "rohrammer",
+      "voiceType": "song",
+      "src": "/media/audio/rohrammer/rohrammer-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Reed Bunting (Emberiza schoeniclus) (W1CDR0001379 BD4).ogg",
+      "creator": "This file has been provided by the British Library from its digital collections. Links to the British Library's website may be broken as the library recovers from a October 2023 cyber attack, and will be updated once material becomes accessible online. For more information on the attack see: https://www.bl.uk/about/cyber-attack It is also made available on a British Library website .",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reed_Bunting_(Emberiza_schoeniclus)_(W1CDR0001379_BD4).ogg",
+      "bytes": 336710,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -2020,6 +2678,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "baumpieper-04",
+      "speciesId": "baumpieper",
+      "voiceType": "call",
+      "src": "/media/audio/baumpieper/baumpieper-04.mp3",
+      "durationSeconds": 16.93,
+      "title": "Anthus trivialis - Tree Pipit XC488388.mp3",
+      "creator": "Pascal Christe",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anthus_trivialis_-_Tree_Pipit_XC488388.mp3",
+      "bytes": 203805,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "wiesenpieper-01",
       "speciesId": "wiesenpieper",
       "voiceType": "song",
@@ -2059,6 +2731,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anthus_pratensis_-_Meadow_Pipit_XC501787.mp3",
       "bytes": 22309,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "wiesenpieper-04",
+      "speciesId": "wiesenpieper",
+      "voiceType": "call",
+      "src": "/media/audio/wiesenpieper/wiesenpieper-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Meadow Pipit (Anthus pratensis) (W1CDR0001526 BD4).ogg",
+      "creator": "This file has been provided by the British Library from its digital collections. Links to the British Library's website may be broken as the library recovers from a October 2023 cyber attack, and will be updated once material becomes accessible online. For more information on the attack see: https://www.bl.uk/about/cyber-attack It is also made available on a British Library website .",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meadow_Pipit_(Anthus_pratensis)_(W1CDR0001526_BD4).ogg",
+      "bytes": 336710,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -2104,6 +2790,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "bachstelze-04",
+      "speciesId": "bachstelze",
+      "voiceType": "call",
+      "src": "/media/audio/bachstelze/bachstelze-04.mp3",
+      "durationSeconds": 1.93,
+      "title": "Jer-craûlant-tchu.ogg",
+      "creator": "Man vyi",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Jer-cra%C3%BBlant-tchu.ogg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jer-cra%C3%BBlant-tchu.ogg",
+      "bytes": 23554,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "gebirgsstelze-01",
       "speciesId": "gebirgsstelze",
       "voiceType": "song",
@@ -2143,6 +2843,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Motacilla_cinerea_-_Grey_Wagtail_XC596811.mp3",
       "bytes": 200395,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "gebirgsstelze-04",
+      "speciesId": "gebirgsstelze",
+      "voiceType": "flight",
+      "src": "/media/audio/gebirgsstelze/gebirgsstelze-04.mp3",
+      "durationSeconds": 4.62,
+      "title": "Motacilla cinerea - Grey Wagtail XC128136.ogg",
+      "creator": "Sudipto Roy",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Motacilla_cinerea_-_Grey_Wagtail_XC128136.ogg",
+      "bytes": 56420,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -2188,6 +2902,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "neuntoeter-04",
+      "speciesId": "neuntoeter",
+      "voiceType": "song",
+      "src": "/media/audio/neuntoeter/neuntoeter-04.mp3",
+      "durationSeconds": 21.71,
+      "title": "Lanius collurio (Rotrückenwürger - Neuntöter - Red-backed Shrike).ogg",
+      "creator": "Feirefis",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lanius_collurio_(Rotr%C3%BCckenw%C3%BCrger_-_Neunt%C3%B6ter_-_Red-backed_Shrike).ogg",
+      "bytes": 260850,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "eichelhaeher-01",
       "speciesId": "eichelhaeher",
       "voiceType": "call",
@@ -2227,6 +2955,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garrulus_glandarius_-_Eurasian_Jay_XC538961.mp3",
       "bytes": 206622,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "eichelhaeher-04",
+      "speciesId": "eichelhaeher",
+      "voiceType": "call",
+      "src": "/media/audio/eichelhaeher/eichelhaeher-04.mp3",
+      "durationSeconds": 8.12,
+      "title": "Garrulus glandarius song.ogg",
+      "creator": "Sander Terlouw",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garrulus_glandarius_song.ogg",
+      "bytes": 97846,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -2272,6 +3014,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "elster-04",
+      "speciesId": "elster",
+      "voiceType": "call",
+      "src": "/media/audio/elster/elster-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Pica pica - Eurasian Magpie XC432921.mp3",
+      "creator": "Joost van Bruggen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pica_pica_-_Eurasian_Magpie_XC432921.mp3",
+      "bytes": 337029,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "rabenkraehe-01",
       "speciesId": "rabenkraehe",
       "voiceType": "call",
@@ -2311,6 +3067,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Corvus_corone_-_Carrion_Crow_XC511945.mp3",
       "bytes": 15369,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "rabenkraehe-04",
+      "speciesId": "rabenkraehe",
+      "voiceType": "call",
+      "src": "/media/audio/rabenkraehe/rabenkraehe-04.mp3",
+      "durationSeconds": 20.56,
+      "title": "Corvus corone - Carrion Crow XC542943.mp3",
+      "creator": "Benoît Van Hecke",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Corvus_corone_-_Carrion_Crow_XC542943.mp3",
+      "bytes": 247409,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -2356,6 +3126,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "dohle-04",
+      "speciesId": "dohle",
+      "voiceType": "call",
+      "src": "/media/audio/dohle/dohle-04.mp3",
+      "durationSeconds": 13.17,
+      "title": "Corvus monedula calls.ogg",
+      "creator": "Veljo Runnel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Corvus_monedula_calls.ogg",
+      "bytes": 158346,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "kolkrabe-01",
       "speciesId": "kolkrabe",
       "voiceType": "call",
@@ -2395,6 +3179,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Corvus_corax_-_Northern_Raven_XC496700.mp3",
       "bytes": 337402,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "kolkrabe-04",
+      "speciesId": "kolkrabe",
+      "voiceType": "call",
+      "src": "/media/audio/kolkrabe/kolkrabe-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Corvus corax - Northern Raven - XC110257.ogg",
+      "creator": "Jonathon Jongsma",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Corvus_corax_-_Northern_Raven_-_XC110257.ogg",
+      "bytes": 337222,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
@@ -2440,6 +3238,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "buntspecht-04",
+      "speciesId": "buntspecht",
+      "voiceType": "call",
+      "src": "/media/audio/buntspecht/buntspecht-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "XC47350 - Grote Bonte Specht - Dendrocopos major.ogg",
+      "creator": "Sander Pieterse",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:XC47350_-_Grote_Bonte_Specht_-_Dendrocopos_major.ogg",
+      "bytes": 337202,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "gruenpecht-01",
       "speciesId": "gruenpecht",
       "voiceType": "call",
@@ -2482,6 +3294,20 @@
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     },
     {
+      "id": "gruenpecht-04",
+      "speciesId": "gruenpecht",
+      "voiceType": "call",
+      "src": "/media/audio/gruenpecht/gruenpecht-04.mp3",
+      "durationSeconds": 13.92,
+      "title": "Picus viridis - European Green Woodpecker XC416424.mp3",
+      "creator": "Alvaro Ortiz Troncoso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Picus_viridis_-_European_Green_Woodpecker_XC416424.mp3",
+      "bytes": 168192,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
       "id": "waldkauz-01",
       "speciesId": "waldkauz",
       "voiceType": "call",
@@ -2521,6 +3347,20 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Strix_aluco_-_Tawny_Owl_XC583835.mp3",
       "bytes": 91622,
+      "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
+    },
+    {
+      "id": "waldkauz-04",
+      "speciesId": "waldkauz",
+      "voiceType": "call",
+      "src": "/media/audio/waldkauz/waldkauz-04.mp3",
+      "durationSeconds": 28.03,
+      "title": "Strix aluco - Tawny Owl XC583840.mp3",
+      "creator": "Alvaro Ortiz Troncoso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Strix_aluco_-_Tawny_Owl_XC583840.mp3",
+      "bytes": 337109,
       "changes": "Auf höchstens 28 Sekunden gekürzt, Mono 44,1 kHz, einpoliger Hochpass 180 Hz, Lautheit normalisiert, mit kurzem Fade-in/out versehen und als MP3 kodiert."
     }
   ],

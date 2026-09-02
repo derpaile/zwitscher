@@ -1,6 +1,6 @@
 # Audit freier Vogelstimmenquellen
 
-Stand: 1. August 2026. Für diese App reicht „kostenlos“ nicht: Die Aufnahme muss kommerziell verbreitet und wegen Zuschnitt, Hochpass, Normalisierung und Neukodierung bearbeitet werden dürfen. Automatisch zugelassen sind daher nur CC0/Public Domain, CC BY und CC BY-SA. Jede Datei behält Urheber, Lizenzlink, Quellseite und Bearbeitungshinweis.
+Stand: 4. August 2026. Für diese App reicht „kostenlos“ nicht: Die Aufnahme muss kommerziell verbreitet und wegen Zuschnitt, Hochpass, Normalisierung und Neukodierung bearbeitet werden dürfen. Automatisch zugelassen sind daher nur CC0/Public Domain, CC BY und CC BY-SA. Jede Datei behält Urheber, Lizenzlink, Quellseite und Bearbeitungshinweis.
 
 ## Geeignete Quellen
 
@@ -31,6 +31,6 @@ Stand: 1. August 2026. Für diese App reicht „kostenlos“ nicht: Die Aufnahme
 
 ## Aktueller Bestand
 
-180 von 180 Aufnahmen sind kommerziell nutzbar und bearbeitbar: 167 × CC BY-SA 4.0, 9 × CC BY-SA 3.x, 3 × Public Domain und 1 × CC0. Es musste keine bestehende Datei gelöscht werden. `npm run audit:licenses` löscht künftig automatisch Aufnahmen mit expliziter NC-, ND-, Sampling- oder „all rights reserved“-Lizenz. Unklare Lizenzen werden aus Sicherheitsgründen nicht gelöscht, blockieren aber die Medienvalidierung.
+240 von 240 Aufnahmen sind kommerziell nutzbar und bearbeitbar: 216 × CC BY-SA 4.0, 16 × CC BY-SA 3.x, 6 × Public Domain, 1 × CC0 und 1 × CC BY 3.0. Es musste keine bestehende Datei gelöscht werden. `npm run audit:licenses` löscht künftig automatisch Aufnahmen mit expliziter NC-, ND-, Sampling- oder „all rights reserved“-Lizenz. Unklare Lizenzen werden aus Sicherheitsgründen nicht gelöscht, blockieren aber die Medienvalidierung.
 
-Die Live-Stichprobe der neuen Suche fand bereits auf den jeweils ersten Ergebnisseiten 45 geeignete Amsel-, 28 Sommergoldhähnchen-, 30 Sumpfrohrsänger- und 6 Grauschnäpper-Kandidaten. Treffer werden weiterhin vor Übernahme angehört, da auch korrekt taxonomisierte Feldaufnahmen Nebenarten und Störgeräusche enthalten können.
+Am 4. August 2026 wurde für jede der 60 Arten eine weitere, zuvor unbenutzte Wikimedia-Commons-Quelle ergänzt. `npm run add:audio:wikimedia` wiederholt die lizenzgeprüfte Suche und ergänzt fehlende Aufnahmen bis zum Zielbestand von vier je Art. Treffer sollten weiterhin angehört werden, da auch korrekt taxonomisierte Feldaufnahmen Nebenarten und Störgeräusche enthalten können.

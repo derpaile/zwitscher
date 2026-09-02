@@ -1,4 +1,5 @@
 import type { HabitatId, RegionId, Species, VoiceType } from '../types';
+import { assetPath } from '../core/paths';
 
 type RawSpecies = [
   id: string,
@@ -115,7 +116,7 @@ export const species: Species[] = RAW.map((row, index) => {
     activeMonths: MIGRANTS.has(id) ? SUMMER_MONTHS : ALL_MONTHS,
     voiceTypes: SPECIAL_VOICES[id] ?? ['song','call'],
     illustration: { palette: PALETTES[index % PALETTES.length]!, mark: markFor(id) },
-    photo: `/media/photos/${id}.webp`,
+    photo: assetPath(`media/photos/${id}.webp`),
   };
 });
 

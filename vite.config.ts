@@ -1,7 +1,9 @@
 import { defineConfig } from 'vitest/config';
+import { loadEnv } from 'vite';
 import { VitePWA } from 'vite-plugin-pwa';
 
-export default defineConfig({
+export default defineConfig(({ mode }) => ({
+  base: loadEnv(mode, '.', '').VITE_BASE_PATH ?? '/',
   plugins: [
     VitePWA({
       registerType: 'autoUpdate',
@@ -33,4 +35,4 @@ export default defineConfig({
     exclude: ['tests/e2e/**'],
     coverage: { reporter: ['text', 'html'] },
   },
-});
+}));

@@ -1,21 +1,20 @@
 import type { MediaManifest, Recording, VoiceType } from '../types';
+import { assetPath } from './paths';
 
 let manifestPromise: Promise<MediaManifest> | null = null;
 
 export function loadMediaManifest(): Promise<MediaManifest> {
   manifestPromise ??= (async () => {
-    let response = await fetch('/media/manifest.json');
+    let response = await fetch(assetPath('media/manifest.json'));
     let staticRoot = false;
     if (!response.ok) {
-      response = await fetch('/public/media/manifest.json');
+      response = await fetch(assetPath('public/media/manifest.json'));
       staticRoot = response.ok;
     }
     if (!response.ok) throw new Error('Medienverzeichnis nicht verfügbar');
     const manifest = await response.json() as MediaManifest;
-    if (staticRoot) {
-      manifest.recordings.forEach((item) => { item.src = `/public${item.src}`; });
-      manifest.photos.forEach((item) => { item.src = `/public${item.src}`; });
-    }
+    manifest.recordings.forEach((item) => { item.src = assetPath(`${staticRoot ? 'public' : ''}${item.src}`); });
+    manifest.photos.forEach((item) => { item.src = assetPath(`${staticRoot ? 'public' : ''}${item.src}`); });
     return manifest;
   })();
   return manifestPromise;
